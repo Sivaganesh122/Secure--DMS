@@ -1,0 +1,2 @@
+candidate,commit,issue,total production insertions,total production deletions,Effective production Loc,total test insertions,total test deletions,effective test LoC,architectural complexity score,search scope and cognitive load score,Invariants & Concurrency Dynamics score,Prior Art Ambiguity & Trap Density score,Durability & Recovery Hardening score
+lotusdblabs/lotusdb,97f2a01e5fc15f325a223920fe118af3918ddf5d,"Issue #146: Support Transaction",633,24,469,386,18,277,9.2,8.8,9.5,9.0,9.1

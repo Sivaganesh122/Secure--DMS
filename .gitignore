@@ -1,0 +1,39 @@
+# ── Runtime data — never commit ───────────────────────────────────────────────
+uploads/
+vector_store/
+document_metadata.db
+document_metadata.db-shm
+document_metadata.db-wal
+
+# ── Model caches (large, re-downloadable) ─────────────────────────────────────
+.paddlex/
+.paddle/
+.cache/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Node / Frontend ─────────────────────────────────────────────────────────
+node_modules/
+*/node_modules/
+*.orig_backup
+
+# ── Env vars ──────────────────────────────────────────────────────────────────
+.env
+.env.*
